@@ -21,14 +21,12 @@
         grid-template-columns: minmax(min-content, 340px) 1fr;
         margin-bottom: 73px;
         gap: 48px 28px;
-        margin-bottom: 73px;
     }    
 }
 
 @media screen and (max-width:640px) {
     .place {
         grid-template-columns: minmax(min-content, 320px);
-        margin-bottom: 73px;
         gap: 32px;
         margin-bottom: 50px;
     }    

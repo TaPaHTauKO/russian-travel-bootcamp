@@ -5,17 +5,17 @@
 @media screen and (max-width:1024px) {
     .place__image {
         width: 440px;
-    }    
+    }
 }
 
 @media screen and (max-width:768px) {
     .place__image {
         width: 340px;
-    }    
+    }
 }
 
 @media screen and (max-width:400px) {
     .place__image {
         width: 320px;
-    }    
+    }
 }

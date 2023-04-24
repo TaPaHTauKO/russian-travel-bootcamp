@@ -15,6 +15,7 @@
     opacity: 30%;
     background: #2A2C2F;
 }
+
 .cover:hover::before {
     opacity: 80%;
 }
@@ -23,17 +24,17 @@
     .cover {
         max-width: 100%;
         margin: 86px 0 0 0;
-    }    
-  }
+    }
+}
 
 @media screen and (max-width:768px) {
     .cover {
         margin: 90px 0 0 0;
-    }    
-  }
+    }
+}
 
 @media screen and (max-width:480px) {
     .cover {
         margin: 66px 0 0 0;
-    }    
-  }
+    }
+}

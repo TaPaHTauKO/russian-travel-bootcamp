@@ -7,12 +7,9 @@
 font-size: 16px;
 line-height: 18px;
 padding: 0;
-margin: 0 18px 0 0;
+margin: 0;
 }
 
-.footer__link:last-of-type{
-    margin: 0;
-}
 .footer__link:hover {
     opacity: 80%;
 }
@@ -22,10 +19,5 @@ margin: 0 18px 0 0;
     .footer__link {
         font-size: 24px;
         line-height: 24px;
-        margin: 0 0 32px 0;
-
-    }
-    .footer__link:last-of-type {
-        margin-bottom: 0;
     }
 }
